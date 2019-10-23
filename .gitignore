@@ -1,5 +1,11 @@
 # Compiled class file
 *.class
+patch
+.idea
+out
+target
+*.iml
+log
 
 # Log file
 *.log
